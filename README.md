@@ -1,10 +1,10 @@
 <img src="Rainbow.gif" width="100%">
 
 <p align="center">
-<img src="RedzeoX.png" alt="Dark-Mystic" width="2050"/>
+<img src="ReddixoN.png" alt="Dark-Mystic" width="2050"/>
 </div>
 
-<h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
+<h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴅɪxᴏɴ 〃<img
 src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
@@ -16,12 +16,14 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
  
 <p align="center">   
 <a href="http://wa.me/923474187615" target="blank"><img src="https://img.shields.io/badge/GC link-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px"/></a>
-<a href="http://wa.me/923474187615" target="blank"><img src="https://img.shields.io/badge/RedzeoX - learner-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px"/></a>  </a>
+<a href="http://wa.me/923474187615" target="blank"><img src="https://img.shields.io/badge/REDDIXON - learner-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px"/></a>  </a>
   <br>
 
 <img src="Rainbow.gif" width="100%">
 
-<a><img src="Gradients.png" alt="Dark-Mystic" width="100%">
+## ✧ SOON NEW PROJECT
+
+<a><img src="Gradients.png" alt="RedDixon" width="100%">
 
 <a><img src="Rainbow.gif" width="100%">
 
@@ -36,7 +38,6 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 
